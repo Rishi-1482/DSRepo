@@ -5,10 +5,10 @@ numpy
 scikit-learn
 matplotlib
 python-box
-pyYAML
+PyYAML
 tqdm
 ensure
-jpoblib
+joblib
 types-pyYAML
 Flask
 Flask-Cors
